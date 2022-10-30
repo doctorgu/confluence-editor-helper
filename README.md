@@ -1,1 +1,1 @@
-# wiki-helper
+# wiki-editor-helper
