@@ -1,0 +1,19 @@
+{
+  "name": "wiki-editor-helper",
+  "version": "1.0.0",
+  "description": "Wiki Editor helper",
+  "manifest_version": 3,
+  "author": "doctorgu",
+  "permissions": ["contextMenus"],
+  "icons": {
+    "16": "icon16.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Wiki Editor Helper",
+    "default_popup": "popup.html",
+    "default_icon": "icon16.png"
+  }
+}
