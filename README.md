@@ -1,1 +1,1 @@
-# wiki-editor-helper
+# confluence-editor-helper
