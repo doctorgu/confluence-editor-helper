@@ -1,1 +1,1 @@
-# confluence-editor-helper
+# tiny-mce-helper

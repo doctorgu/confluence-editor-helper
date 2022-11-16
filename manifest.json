@@ -1,7 +1,7 @@
 {
-  "name": "wiki-editor-helper",
+  "name": "tiy-mce-helper",
   "version": "1.0.0",
-  "description": "Wiki Editor helper",
+  "description": "Tiny MCE helper",
   "manifest_version": 3,
   "author": "doctorgu",
   "permissions": ["contextMenus"],
@@ -12,7 +12,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "Wiki Editor Helper",
+    "default_title": "Tiny MCE Helper",
     "default_popup": "popup.html",
     "default_icon": "icon16.png"
   }
